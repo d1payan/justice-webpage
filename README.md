@@ -7,7 +7,7 @@ This is the Project 6 of Full Stack JavaScript Bootcamp 2.0 by iNeuron.
 - HTML
 - CSS
 
-### :rocket: [Live Link](https://justice-webpage.netlify.app/)
+### :rocket: [Live Link](https://justice-website.netlify.app/)
 
 ### Output:
 
