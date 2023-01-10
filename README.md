@@ -1,11 +1,11 @@
 # justice-webpage
 
-This is the Project 6 of Full Stack JavaScript Bootcamp 2.0 by iNeuron.
+This is one of the HTML and CSS assignments, was given in **Full Stack JavaScript Bootcamp 2.0** mentored by [Hitesh Choudhary](https://github.com/hiteshchoudhary) and [Anurag Tiwari](https://github.com/anuragtiwarime).
 
 ### Tech Stack:
 
-- HTML
-- CSS
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### :rocket: [Live Link](https://justice-website.netlify.app/)
 
